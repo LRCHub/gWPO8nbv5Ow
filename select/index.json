@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マジカホリック",
+  "base_artist": "Kai",
+  "createdAt": "2026-03-15T08:58:52.638969Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジカホリック",
+      "artist": "Kai",
+      "has_synced": false,
+      "path": "select/pl_01_マジカホリック_Kai.txt"
+    }
+  ]
+}
